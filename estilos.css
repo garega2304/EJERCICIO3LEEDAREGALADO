@@ -1,0 +1,22 @@
+a{
+    font-size: 20px;
+    margin: 10px 20px 10px 0px;
+    display: inline-block;
+    text-decoration: underline;
+    padding: 20px;
+}
+
+.rojo{
+    color:rgb(218, 248, 22);
+}
+
+.azul{
+    color:rgb(222, 21, 189);
+}
+
+.rojo:hover{
+    color: rgb(16, 234, 16);
+}
+.azul:hover{
+    color:rgb(231, 12, 12);
+}
